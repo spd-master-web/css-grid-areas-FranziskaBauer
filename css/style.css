@@ -19,6 +19,10 @@ body {
   height: 100vh;
 }
 
+.grid-item {
+  padding: 20px;
+}
+
 header {
   background-color: #eda3ff;
   grid-column-start: 1;
